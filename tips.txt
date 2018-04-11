@@ -1,0 +1,9 @@
+
+
+
+
+git add file_name
+git commit
+type comment
+Press <esc> :wq <enter> 
+see https://stackoverflow.com/questions/13340329/how-to-save-a-git-commit-message-from-windows-cmd
